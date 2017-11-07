@@ -1,1 +1,3 @@
-Green apples are objectively better than red apples.
+'Green apples are objectively better than red apples.'
+
+This is a highly debated subject within our team
